@@ -15,7 +15,7 @@
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "siteFonts": [],
-    "noImageResize": ""
+    "noImageResize": "true"
   },
   "pages": {
     "index.html": {
